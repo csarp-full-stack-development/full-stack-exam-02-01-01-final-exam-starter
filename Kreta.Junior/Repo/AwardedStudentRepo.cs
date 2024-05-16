@@ -1,6 +1,6 @@
 ﻿namespace Kreta.Junior.Repo
 {
-    public class HeadTeacherRepo
+    public class AwardedStudentRepo
     {
     }
 }

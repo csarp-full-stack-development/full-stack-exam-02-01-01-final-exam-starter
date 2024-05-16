@@ -5,8 +5,6 @@ namespace Kreta.Junior.ViewModel
 {
     public class HeadTeacherViewModel
     {
-        private HeadTeacherRepo _headTeacherRepo=new();
-
         public HeadTeacherViewModel()
         {
         }
