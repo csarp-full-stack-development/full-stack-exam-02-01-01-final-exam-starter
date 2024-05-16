@@ -10,12 +10,5 @@ namespace Kreta.Junior.ViewModel
         public HeadTeacherViewModel()
         {
         }
-
-        public string OsziOtto => string.Empty;
-        public string SeniorHeadTeacher => string.Empty;
-       
-        public string NumberOfAssistantHeadTeacher => string.Empty;
-
-        public string NumberOfNoAssistantHeadTeacher => string.Empty;
     }
 }
