@@ -11,7 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreta.HttpService", "Kreta.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreta.Shared", "Kreta.Shared\Kreta.Shared.csproj", "{27ABF1DB-F4A3-4D8B-B6E8-0E50B5537EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreta.Junior", "Kreta.Junior\Kreta.Junior.csproj", "{29FC6398-85F4-45F4-9B4C-F43A6A56868C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kreta.Junior", "Kreta.Junior\Kreta.Junior.csproj", "{29FC6398-85F4-45F4-9B4C-F43A6A56868C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6271DB16-018D-4FE1-A071-E747C13E4504}"
+	ProjectSection(SolutionItems) = preProject
+		GyakorloFeladatok.docx = GyakorloFeladatok.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
